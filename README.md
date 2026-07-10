@@ -10,7 +10,7 @@ Project ini bertujuan untuk memahami pola donasi dan perilaku donatur melalui da
 
 Dashboard dapat diakses melalui tautan berikut:
 
-[**Buka Dashboard Looker Studio**](https://lookerstudio.google.com/reporting/f8e0f537-a0da-4736-991c-a334eed8c4ea)
+[**Lihat Dashboard Looker Studio**](https://lookerstudio.google.com/reporting/f8e0f537-a0da-4736-991c-a334eed8c4ea)
 
 ## Hasil Project
 

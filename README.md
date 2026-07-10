@@ -1,67 +1,29 @@
-# Donation Trend and Donor Behavior Analysis
+# Analisis Tren dan Perilaku Donasi 2020–2024
 
-A business analytics project analyzing donation trends and donor behavior for Mizan Amanah from 2020 to 2024.
+Project analisis bisnis yang membahas tren donasi, perilaku donatur, pola transaksi, dan peluang strategi penghimpunan dana untuk Mizan Amanah selama periode 2020–2024.
 
-## Project Overview
+## Gambaran Project
 
-This project explores donation performance, donor participation, transaction patterns, and seasonal fundraising behavior using an interactive Looker Studio dashboard.
+Project ini bertujuan untuk memahami pola donasi dan perilaku donatur melalui dashboard interaktif yang dibuat menggunakan Looker Studio. Analisis mencakup tren tahunan, bulanan, mingguan, distribusi nominal donasi, partisipasi donatur, serta pola donasi pada periode keagamaan seperti Ramadan.
 
-The analysis covers annual, monthly, weekly, and religious-period trends to identify key fundraising opportunities and donor behavior patterns.
+## Dashboard Interaktif
 
-## Dashboard
+Dashboard dapat diakses melalui tautan berikut:
 
-View the interactive Looker Studio dashboard:
+[**Buka Dashboard Looker Studio**](https://lookerstudio.google.com/reporting/f8e0f537-a0da-4736-991c-a334eed8c4ea)
 
-[Open Looker Studio Dashboard](https://lookerstudio.google.com/reporting/f8e0f537-a0da-4736-991c-a334eed8c4ea)
+## Hasil Project
 
-## Key Metrics
+Project ini menghasilkan:
 
-- 59,894 total transactions
-- Average donation value of approximately Rp188,000
-- 32% recurring donors
-- Strong donation concentration during religious periods and campaign moments
+- Dashboard interaktif menggunakan Looker Studio
+- Analisis tren dan perilaku donatur
+- Identifikasi pola transaksi
+- Insight bisnis
+- Rekomendasi strategi penghimpunan dana
 
-## Key Insights
+## Presentasi Project
 
-- More than 50% of transactions came from donations below Rp50,000.
-- Total funds increased slightly in 2024 despite a sharp decline in the number of donors.
-- Ramadan generated the highest donation value and donor participation.
-- Friday was the strongest day for donation volume and transaction frequency.
-- Higher-value donors tended to transact more often on weekdays.
-- Donation values were highly right-skewed because of a small number of very large transactions.
+Dokumen presentasi analisis dapat dilihat melalui tautan berikut:
 
-## Business Recommendations
-
-- Reactivate inactive donors through personalized communication.
-- Strengthen retention programs for micro-donors.
-- Encourage mid-value donors to upgrade their donation tiers.
-- Develop corporate partnership and CSR opportunities.
-- Improve transparency through personalized impact reporting.
-- Optimize campaigns around Ramadan and Friday donation behavior.
-
-## Project Deliverables
-
-- Interactive Looker Studio dashboard
-- Business analysis presentation
-- Strategic recommendations
-
-## Project Presentation
-
-[View Project Presentation](assets/donation_trend_analysis_presentation.pdf)
-
-## Tools
-
-- Looker Studio
-- Data Visualization
-- Exploratory Data Analysis
-- Business Analytics
-- Donor Segmentation
-- Strategic Recommendation
-
-## Project Type
-
-This project was completed collaboratively as part of a data analytics bootcamp.
-
-## Disclaimer
-
-This repository contains project documentation and dashboard access only. The source dataset and analysis code are not included.
+[**Lihat Presentasi Project**](assets/analisis_tren_perilaku_donasi.pdf)
